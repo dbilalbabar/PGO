@@ -1,4 +1,4 @@
-# PGO
+# ENERGY SYSTEMS FOR PGO
 
 A repository for storing energy system code files used in the PGO project.
 
