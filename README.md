@@ -7,6 +7,8 @@ A repository for storing energy system code files used in the PGO project.
 ## Overview
 This project explores the development of energy system models for a Polar Geospace Observatory. The focus is on representing power demand, storage, and system behavior under harsh operational conditions.
 
+![System diagram](Picture1.jpg)
+
 ## Scope
 - Modeling of PGO energy consumption.
 - Resource analysis of renewable energy generation.
