@@ -43,7 +43,6 @@ University of Oslo.
 3. Viole, I., Valenzuela-Venegas, G., Sartori, S., & Zeyringer, M. (2024).  
    *Integrated life cycle assessment in off-grid energy system design—Uncovering low hanging fruit for climate mitigation.*,  
    Applied Energy, 367, 123334.
-   
    https://doi.org/10.1016/j.apenergy.2024.123334
 
 ## Usage
