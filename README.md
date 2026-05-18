@@ -5,19 +5,24 @@ A repository for storing energy system code files used in the PGO project.
 > Conceptual and analytical modeling of energy systems for remote locations.
 
 ## Overview
-This project explores the development of models for energy systems used in remote Arctic regions. The focus is on representing power demand, storage, and system behavior under harsh operational conditions.
+This project explores the development of energy system models for a Polar Geospace Observatory. The focus is on representing power demand, storage, and system behavior under harsh operational conditions.
 
 ## Scope
 - Modeling of PGO energy consumption.
 - Resource analysis of renewable energy generation.
-- System-level analysis of energy flow
-- Controller design and optimization
+- System-level analysis of energy flow.
+- Controller design and optimization.
 
 - Exploration of efficient and resilient configurations
 
 ## Status
-🚧 This project is currently in an early conceptual stage.  
+🚧 This project is currently in an early conceptual stage.
 No implementation has been developed yet.
+
+## Maintainer
+Bilal Babar, Researcher,
+Department of Technology Systems,
+University of Oslo.
 
 ## References
 
@@ -34,6 +39,7 @@ No implementation has been developed yet.
 3. Viole, I., Valenzuela-Venegas, G., Sartori, S., & Zeyringer, M. (2024).  
    *Integrated life cycle assessment in off-grid energy system design—Uncovering low hanging fruit for climate mitigation.*,  
    Applied Energy, 367, 123334.
+   
    https://doi.org/10.1016/j.apenergy.2024.123334
 
 ## Usage
