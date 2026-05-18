@@ -16,17 +16,19 @@ This project explores the development of energy system models for a Polar Geospa
 - Resource analysis of renewable energy generation.
 - System-level analysis of energy flow.
 - Controller design and optimization.
-
-- Exploration of efficient and resilient configurations
+- Exploration of efficient and resilient configurations.
 
 ## Status
 🚧 This project is currently in an early conceptual stage.
 No implementation has been developed yet.
 
 ## Maintainer
-Bilal Babar, Researcher,
-Department of Technology Systems,
-University of Oslo.
+**Bilal Babar, Researcher,**
+
+*Department of Technology Systems,*
+*University of Oslo.*
+
+*bilal.babar@its.uio.no*
 
 ## References
 
