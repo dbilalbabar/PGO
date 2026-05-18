@@ -6,14 +6,9 @@ A repository for storing energy system code files used in the PGO project.
 
 This repository contains code and supporting files for energy system modeling, analysis, and simulations.
 
-## Contents
-
-- `README.md` - this project overview.
-- Energy system code files and related scripts for PGO.
-
 ## Usage
 
-Add or update energy system models and analysis scripts in this repository. Keep the code organized by component or model type.
+Add or update energy system models and analysis scripts in this repository.
 
 ## Notes
 
